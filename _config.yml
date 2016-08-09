@@ -1,7 +1,7 @@
 name: Reality Gon
 favicon: null
-layout_spectrum: 0.6815464827232063
-typography_spectrum: 0.09619955602101982
+layout_spectrum: 0.34179
+typography_spectrum: 0.37902
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#ffffff'
+    - '#bebebe'
+    - '#686868'
+    - '#ffad01'
   brandStrength: 0.5185659290291369
   lightness: 0.5674786742310971
   saturation: 0.705463478108868
