@@ -1,4 +1,4 @@
-name: Reality Gon
+name: Realitygon
 favicon: null
 layout_spectrum: 0.43913
 typography_spectrum: 0.37902
@@ -22,8 +22,8 @@ color:
     - '#bebebe'
     - '#686868'
     - '#ffad01'
-  brandStrength: 0.75
+  brandStrength: 1
   lightness: 0.125
   saturation: 0.705463478108868
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0
 purpose: []
