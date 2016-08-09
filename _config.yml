@@ -1,0 +1,28 @@
+name: Reality Gon
+favicon: null
+layout_spectrum: 0.6815464827232063
+typography_spectrum: 0.09619955602101982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5185659290291369
+  lightness: 0.5674786742310971
+  saturation: 0.705463478108868
+  rhythmicContrast: 0.5926180945243686
+purpose: []
